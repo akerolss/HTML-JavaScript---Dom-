@@ -1,2 +1,2 @@
-# HTML/JavaScript-Dom
+# JavaScript (DOM)
 Repositório Lista HTML e JavaScript
